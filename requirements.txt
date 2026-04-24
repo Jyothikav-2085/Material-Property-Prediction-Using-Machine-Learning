@@ -1,0 +1,20 @@
+# ─────────────────────────────────────────────────────────
+#  MatPredict — requirements.txt
+#  Generated for Streamlit Cloud / Render deployment
+#  Python 3.11 (see runtime.txt)
+# ─────────────────────────────────────────────────────────
+
+# Core web framework
+streamlit==1.45.0
+
+# ML / model inference
+scikit-learn==1.6.1
+joblib==1.4.2
+
+# Data wrangling
+numpy==2.2.5
+pandas==2.2.3
+
+# Visualisation
+matplotlib==3.10.1
+scipy==1.15.3
